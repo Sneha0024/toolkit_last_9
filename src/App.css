@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply !font-inter;
+}
+.app {
+  @apply font-inter;
+}
+
+input:focus-visible {
+  outline: red auto 0px;
+}
