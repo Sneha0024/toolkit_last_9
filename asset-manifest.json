@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toolkit_last_9/static/css/main.2195e91f.css",
+    "main.js": "/toolkit_last_9/static/js/main.6d822e46.js",
+    "static/js/453.4cc73845.chunk.js": "/toolkit_last_9/static/js/453.4cc73845.chunk.js",
+    "static/media/logo.svg": "/toolkit_last_9/static/media/logo.ce03f0111e1f0c91429a284c7e002aac.svg",
+    "static/media/button.svg": "/toolkit_last_9/static/media/button.986e4a1f0830a2484788a93b0ca07d05.svg",
+    "static/media/last.svg": "/toolkit_last_9/static/media/last.3c45b60d8b65966422ec6da98f136439.svg",
+    "static/media/github-header-icon.svg": "/toolkit_last_9/static/media/github-header-icon.6ce6ca9860d574d249a18902d25c316d.svg",
+    "static/media/modal-header-icon.svg": "/toolkit_last_9/static/media/modal-header-icon.3d1db900557cd4ff9582fb9c064b4933.svg",
+    "static/media/puzzle-icon.svg": "/toolkit_last_9/static/media/puzzle-icon.cd1403b43e9c8cfb2b2ac57739d202dd.svg",
+    "index.html": "/toolkit_last_9/index.html",
+    "static/media/search.svg": "/toolkit_last_9/static/media/search.938b6f8714118f8e52c95c7be8064217.svg",
+    "static/media/close.svg": "/toolkit_last_9/static/media/close.948d81989b0504792dc83e834dda6dde.svg",
+    "main.2195e91f.css.map": "/toolkit_last_9/static/css/main.2195e91f.css.map",
+    "main.6d822e46.js.map": "/toolkit_last_9/static/js/main.6d822e46.js.map",
+    "453.4cc73845.chunk.js.map": "/toolkit_last_9/static/js/453.4cc73845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2195e91f.css",
+    "static/js/main.6d822e46.js"
+  ]
+}
